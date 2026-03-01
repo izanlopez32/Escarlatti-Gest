@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### PD: Si quieres usar este proyecto deberás de tener tu proyecto vue ya creado con todas sus respectivas carpetas
